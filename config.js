@@ -2,27 +2,27 @@
 // BASE ILMANHDYT
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
-// RECODE BY KOKO PANGERAN
+// RECODE BY PANDA560
 
 //=============『 Utama 』================== //
-global.owner = ['+1(450)235-4024'] 
-global.mods = ['+1(450)235-4024'] 
-global.prems = ['+1(450)235-4024'] 
+global.owner = ['+62 812-7367-7810'] 
+global.mods = ['+62 812-7367-7810'] 
+global.prems = ['+62 812-7367-7810'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.numberowner = '+1(450)235-4024'
-global.instagram = 'https://instagram.com/kokopangeran_'
-global.github = 'https://github.com/kokopangeran'
-global.dana = '087832147584'
-global.pulsa = '087832147584'
-global.gopay = '087832147584'
+global.nameowner = 'ᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.numberowner = '+62 812-7367-7810'
+global.instagram = 'https://www.instagram.com/invites/contact/?i=18n050noxcaqr&utm_content=4fkjlpc'
+global.github = 'https://github.com/panda560'
+global.dana = ''
+global.pulsa = '+62 819-5929-3465'
+global.gopay = '+62 812-7367-7810'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.gc = 'https://chat.whatsapp.com/BelumBuatGroupBot'
-global.web = 'https://instagram.com/kokopangeran_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/kokopangeran_'
+global.namebot = 'ᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.gc = 'https://chat.whatsapp.com/C6ahuoDnxXh9zbDnw9wYrb'
+global.web = 'https://www.instagram.com/invites/contact/?i=18n050noxcaqr&utm_content=4fkjlpc' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://github.com/panda560'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -32,10 +32,10 @@ global.fotonya3 = 'https://telegra.ph/file/e7019215bb7554614cc2c.jpg'
 global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.wm = '© ᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
 global.watermark = wm
-global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.wm3 = 'ᯤ ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.wm3 = 'ᯤ ᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -45,8 +45,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = '©ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ-MD×፝֟͜×'
-global.author = '@ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.packname = '© Pratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ-MD×፝֟͜×'
+global.author = '@ᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix

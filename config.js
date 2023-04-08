@@ -11,19 +11,19 @@ global.prems = ['+62 812-7367-7810']
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.numberowner = '+62 812-7367-7810'
-global.instagram = 'https://www.instagram.com/invites/contact/?i=18n050noxcaqr&utm_content=4fkjlpc'
+global.numberowner = '6282181337337'
+global.instagram = 'https://www.instagram.com/arrezza20'
 global.github = 'https://github.com/panda560'
 global.dana = ''
-global.pulsa = '+62 819-5929-3465'
-global.gopay = '+62 812-7367-7810'
+global.pulsa = '082181337337'
+global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.gc = 'https://chat.whatsapp.com/C6ahuoDnxXh9zbDnw9wYrb'
-global.web = 'https://www.instagram.com/invites/contact/?i=18n050noxcaqr&utm_content=4fkjlpc' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'ᵈʳPandabotz×፝֟͜×'
+global.gc = 'https://chat.whatsapp.com/C3y8SC2EmJWHurHEGl9S4D'
+global.web = 'https://www.instagram.com/arrezza20' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://github.com/panda560'
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 200.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
@@ -34,8 +34,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© ᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
 global.watermark = wm
-global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.wm3 = 'ᯤ ᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.wm2 = 'ᯤ Creator By Pandabotz×፝֟͜×'
+global.wm3 = 'ᯤ ᵈʳarrezza20×፝֟͜×'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -45,8 +45,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = '© Pratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ-MD×፝֟͜×'
-global.author = '@ᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.packname = '© Pandabotz-MD×፝֟͜×'
+global.author = '@ᵈʳarrezza20×፝֟͜×'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix

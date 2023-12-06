@@ -5,17 +5,17 @@
 // RECODE BY PANDA560
 
 //=============『 Utama 』================== //
-global.owner = ['+62 812-7367-7810'] 
-global.mods = ['+62 812-7367-7810'] 
-global.prems = ['+62 812-7367-7810'] 
+global.owner = ['+62 819-9886-3003'] 
+global.mods = ['+62 819-9886-3003'] 
+global.prems = ['+62 819-9886-3003'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᵈʳpratama ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.numberowner = '6282181337337'
+global.numberowner = '6281998863003'
 global.instagram = 'https://www.instagram.com/arrezza20'
 global.github = 'https://github.com/panda560'
 global.dana = ''
-global.pulsa = '082181337337'
+global.pulsa = '+62 819-9886-3003'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//

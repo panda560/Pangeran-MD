@@ -20,7 +20,7 @@ global.gopay = ''
 
 //=============『 Info Bot 』=================//
 global.namebot = 'ᵈʳPandabotz×፝֟͜×'
-global.gc = 'https://chat.whatsapp.com/C3y8SC2EmJWHurHEGl9S4D'
+global.gc = 'https://chat.whatsapp.com/GFCwnKQBzKl4jNIbp6U6tS'
 global.web = 'https://www.instagram.com/arrezza20' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://github.com/panda560'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 200.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
